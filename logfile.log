@@ -1,0 +1,174 @@
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-07 16:00:00] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 7, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-08 12:00:01] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 7, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-08 14:00:00] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 7, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-08 16:00:01] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 1, 'lowest_price': 51.28, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 7, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-09 12:00:01] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 1, 'lowest_price': 38.46, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 6, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
+/Users/tanguyverdoodt/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+[2024-07-09 14:00:01] 
+Script started. Checking prices for records...
+
+Checking 340369
+Fetching marketplace stats for release ID: 340369
+Response status code: 200
+Marketplace stats for release ID 340369: {'num_for_sale': 1, 'lowest_price': 38.46, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 340369
+
+Checking 10751701
+Fetching marketplace stats for release ID: 10751701
+Response status code: 200
+Marketplace stats for release ID 10751701: {'num_for_sale': 5, 'lowest_price': 200.0, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 10751701
+
+Checking 6649851
+Fetching marketplace stats for release ID: 6649851
+Response status code: 200
+Marketplace stats for release ID 6649851: {'num_for_sale': 0, 'lowest_price': None, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 6649851
+
+Checking 4111078
+Fetching marketplace stats for release ID: 4111078
+Response status code: 200
+Marketplace stats for release ID 4111078: {'num_for_sale': 6, 'lowest_price': 119.57, 'blocked_from_sale': False}
+No price drop or unable to fetch price for release ID: 4111078
